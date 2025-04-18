@@ -1,14 +1,14 @@
 # Basic Information 
 title: Hongyu Hè
-position: 1st year PhD Student
-affiliation: Electrical Engineering and Computer Science at Princeton
+position: 1st year PhD Student in Electrical Engineering
+affiliation: University Fellow in Computer Science
 email: hhy AT g.princeton
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: researcher, computer science, machine learning, computer networks, formal logic, Princeton University
+description: Hongyu Hè's academic website. 
+canonical: https://hongyu.nl/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -34,7 +34,7 @@ auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Sans Serif"
+font: "Serif" # "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
