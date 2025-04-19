@@ -7,7 +7,7 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#043361!important;
+  color:#EE7F2D!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
@@ -160,7 +160,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 50%;
+      border-radius: 0%;
     }
 
       .image.avatar:before {
@@ -168,9 +168,9 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 50%;
+        border-radius: 0%;
         width: 90%;
-        padding: 20px;
+        padding: 0px;
         border: 1px solid #171717;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
@@ -183,18 +183,18 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  color:#EE7F2D;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  color:#EE7F2D;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:#EE7F2D;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
