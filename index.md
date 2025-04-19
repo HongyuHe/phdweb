@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 1st year Ph.D. student at Princeton.
+I am a 1st-year Ph.D. student at Princeton.
 
 ## Research Interests
 
