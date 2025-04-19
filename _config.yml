@@ -1,8 +1,8 @@
 # Basic Information 
 title: Hongyu Hè
-affiliation: 1st year PhD student in Electrical Engineering
+affiliation: PhD student in Electrical Engineering
 position: University Fellow in Computer Science
-email: hhy AT g.princeton
+email: hhy AT g.princeton.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -21,7 +21,7 @@ twitter: https://twitter.com/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/me_pton_square.jpg
-favicon: ./assets/img/favicon.png
+favicon: ./assets/img/favicon_pton.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
