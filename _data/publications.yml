@@ -8,7 +8,7 @@ main:
     code: https://github.com/HongyuHe/energat
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:YVFYF1PiZGUJ:scholar.google.com/&output=citation&scisdr=ClExa7_DEOGn1LXCKJ8:AFWwaeYAAAAAaALEMJ8HwoHN5yx5Rc6orcgDxxQ&scisig=AFWwaeYAAAAAaALEML5K8OWoJB3AmKEjfvH8DYI&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/energat.png
-    notes: Notes
+    # notes: Notes
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
